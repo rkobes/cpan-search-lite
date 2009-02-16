@@ -1,0 +1,19 @@
+[% USE XML.Escape %]
+<?xml version="1.0" encoding="UTF-8"?>
+<SOFTPKG NAME="[% results.dist_name %]" VERSION="[% results.dist_vers %]">
+  <TITLE>[% results.dist_name %]</TITLE>
+  <ABSTRACT>[% results.dist_abs | xml_escape %]</ABSTRACT>
+  <AUTHOR>[% results.fullname %] &lt;[% results.cpanid | upper %]@cpan.org&gt;</AUTHOR>
+  <IMPLEMENTATION>
+[% IF results.reqs %]
+[% FOREACH item = results.reqs %]
+    <REQUIRE NAME="[% item.mod_name %]" VERSION="[% item.mod_vers || 0 %]" />
+    <DEPENDENCY NAME="[% item.dist_name %]" />
+[% END %]
+[% END %]
+    <CODEBASE HREF="[% download %]/authors/id/[% results.download %]" />
+[% FOREACH item = results.mods %]
+    <PROVIDE NAME="[% item.mod_name %]" VERSION="[% item.mod_vers || 0 %]" />
+[% END %]
+  </IMPLEMENTATION>
+</SOFTPKG>

@@ -1,0 +1,123 @@
+--- #YAML:1.0
+name: libwww-perl
+abstract: The World-Wide Web library for Perl
+version: 5.800
+author:
+  - 'Gisle Aas <GAAS@cpan.org>'
+distribution_type: module
+provides:
+  Bundle::LWP:
+    version: 1.11
+  File::Listing:
+    version: 1.15
+  HTML::Form:
+    version: 1.044
+  HTTP::Cookies:
+    version: 1.38
+  HTTP::Cookies::Microsoft:
+    version: 1.07
+  HTTP::Cookies::Netscape:
+    version: 1.26
+  HTTP::Daemon:
+    version: 1.35
+  HTTP::Date:
+    version: 1.46
+  HTTP::Headers:
+    version: 1.61
+  HTTP::Headers::Auth:
+    version: 1.03
+  HTTP::Headers::ETag:
+    version: 1.04
+  HTTP::Headers::Util:
+    version: 1.13
+  HTTP::Message:
+    version: 1.44
+  HTTP::Negotiate:
+    version: 1.15
+  HTTP::Request:
+    version: 1.40
+  HTTP::Request::Common:
+    version: 1.23
+  HTTP::Response:
+    version: 1.49
+  HTTP::Status:
+    version: 1.28
+  LWP:
+    version: 5.800
+  LWP::Authen::Basic:
+    version: 0
+  LWP::Authen::Digest:
+    version: 0
+  LWP::Authen::Ntlm:
+    version: 0.05
+  LWP::ConnCache:
+    version: 0.01
+  LWP::Debug:
+    version: 0
+  LWP::DebugFile:
+    version: 0
+  LWP::MediaTypes:
+    version: 1.31
+  LWP::MemberMixin:
+    version: 0
+  LWP::Protocol:
+    version: 1.42
+  LWP::Protocol::GHTTP:
+    version: 0
+  LWP::Protocol::cpan:
+    version: 0
+  LWP::Protocol::data:
+    version: 0
+  LWP::Protocol::file:
+    version: 0
+  LWP::Protocol::ftp:
+    version: 0
+  LWP::Protocol::gopher:
+    version: 0
+  LWP::Protocol::http:
+    version: 0
+  LWP::Protocol::http10:
+    version: 0
+  LWP::Protocol::https:
+    version: 0
+  LWP::Protocol::https10:
+    version: 0
+  LWP::Protocol::loopback:
+    version: 0
+  LWP::Protocol::mailto:
+    version: 0
+  LWP::Protocol::nntp:
+    version: 0
+  LWP::Protocol::nogo:
+    version: 0
+  LWP::RobotUA:
+    version: 1.27
+  LWP::Simple:
+    version: 1.41
+  LWP::UserAgent:
+    version: 2.032
+  Net::HTTP:
+    version: 1.00
+  Net::HTTP::Methods:
+    version: 1.00
+  Net::HTTP::NB:
+    version: 0.02
+  Net::HTTPS:
+    version: 1.00
+  WWW::RobotRules:
+    version: 1.30
+  WWW::RobotRules::AnyDBM_File:
+    version: 1.11
+resources:
+  AnnoCPAN: http://annocpan.org/dist/libwww-perl
+  CPANForum: http://www.cpanforum.com/dist/libwww-perl
+  CPANTS: http://cpants.perl.org/dist/libwww-perl
+  Rating: http://cpanratings.perl.org/d/libwww-perl
+  SearchCPAN: http://search.cpan.org/~GAAS/libwww-perl/
+  Testers: http://cpantesters.perl.org/show/libwww-perl.html
+  UWinnipeg: http://cpan.uwinnipeg.ca/dist/libwww-perl
+  bugtracker: http://rt.cpan.org/NoAuth/Bugs.html?Dist=libwww-perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.3.html
+  version: 1.3
+generated_by: CPAN::Search::Lite v0.77

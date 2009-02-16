@@ -1,0 +1,29 @@
+{
+   "resources" : {
+      "SearchCPAN" : "http://search.cpan.org/~GSAR/Alias/",
+      "bugtracker" : "http://rt.cpan.org/NoAuth/Bugs.html?Dist=Alias",
+      "UWinnipeg" : "http://cpan.uwinnipeg.ca/dist/Alias",
+      "CPANTS" : "http://cpants.perl.org/dist/Alias",
+      "CPANForum" : "http://www.cpanforum.com/dist/Alias",
+      "Rating" : "http://cpanratings.perl.org/d/Alias",
+      "AnnoCPAN" : "http://annocpan.org/dist/Alias",
+      "Testers" : "http://cpantesters.perl.org/show/Alias.html"
+   },
+   "generated_by" : "CPAN::Search::Lite v0.77",
+   "meta-spec" : {
+      "version" : 1.3,
+      "url" : "http://module-build.sourceforge.net/META-spec-v1.3.html"
+   },
+   "distribution_type" : "module",
+   "version" : 2.32,
+   "name" : "Alias",
+   "author" : [
+      "Gurusamy Sarathy <GSAR@cpan.org>"
+   ],
+   "provides" : {
+      "Alias" : {
+         "version" : 2.32
+      }
+   },
+   "abstract" : "Convenient access to data/code via aliases"
+}

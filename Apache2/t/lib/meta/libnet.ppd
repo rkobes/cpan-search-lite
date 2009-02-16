@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SOFTPKG NAME="libnet" VERSION="1.19">
+  <TITLE>libnet</TITLE>
+  <ABSTRACT>Collection of Network protocol modules</ABSTRACT>
+  <AUTHOR>Graham Barr &lt;GBARR@cpan.org&gt;</AUTHOR>
+  <IMPLEMENTATION>
+    <REQUIRE NAME="IO::Socket" VERSION="0" />
+    <DEPENDENCY NAME="IO" />
+    <CODEBASE HREF="http://cpan.uwinnipeg.ca/cpan/authors/id/G/GB/GBARR/libnet-1.19.tar.gz" />
+    <PROVIDE NAME="Net::Cmd" VERSION="2.26" />
+    <PROVIDE NAME="Net::Config" VERSION="1.10" />
+    <PROVIDE NAME="Net::Domain" VERSION="2.19" />
+    <PROVIDE NAME="Net::FTP" VERSION="2.75" />
+    <PROVIDE NAME="Net::FTP::A" VERSION="1.16" />
+    <PROVIDE NAME="Net::FTP::dataconn" VERSION="0.11" />
+    <PROVIDE NAME="Net::FTP::E" VERSION="0.01" />
+    <PROVIDE NAME="Net::FTP::I" VERSION="1.12" />
+    <PROVIDE NAME="Net::FTP::L" VERSION="0.01" />
+    <PROVIDE NAME="Net::Netrc" VERSION="2.12" />
+    <PROVIDE NAME="Net::NNTP" VERSION="2.23" />
+    <PROVIDE NAME="Net::POP3" VERSION="2.28" />
+    <PROVIDE NAME="Net::SMTP" VERSION="2.29" />
+    <PROVIDE NAME="Net::Time" VERSION="2.10" />
+  </IMPLEMENTATION>
+</SOFTPKG>

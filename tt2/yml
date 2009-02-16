@@ -1,0 +1,46 @@
+--- #YAML:1.0
+name: [% results.dist_name %]
+
+[% IF results.dist_abs %]
+abstract: [% results.dist_abs %]
+
+[% END %]
+version:  [% results.dist_vers %]
+
+author:
+  - '[% results.fullname %] <[% results.cpanid | upper %]@cpan.org>'
+distribution_type: module
+[% IF results.reqs %]
+requires:
+[% FOREACH item = results.reqs %]
+  [% item.mod_name %]: [% item.mod_vers || 0 %]
+
+[% END %]
+[% END %]
+provides:
+[% FOREACH item = results.mods %]
+  [% item.mod_name %]:
+    version: [% item.mod_vers || 0 %]
+
+[% END %]
+resources:
+  bugtracker: [% rt %][% results.dist_name %]
+
+  SearchCPAN: [% searchcpan %]~[% results.cpanid %]/[% results.dist_name %]/
+  AnnoCPAN: [% anno %][% results.dist_name %]
+
+  CPANTS: [% cpants %]/dist/[% results.dist_name %]
+
+  Testers: [% testers %][% results.dist_name %].html
+  Rating: [% rate %][% results.dist_name %]
+
+  CPANForum: [% forum %][% results.dist_name %]
+
+  CPANdeps:  [% cpandeps %][% results.mods.0.mod_name %]
+
+  UWinnipeg: http://cpan.uwinnipeg.ca/dist/[% results.dist_name %]
+
+meta-spec:
+  version: 1.3
+  url: http://module-build.sourceforge.net/META-spec-v1.3.html
+generated_by: CPAN::Search::Lite v0.77

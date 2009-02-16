@@ -1,0 +1,36 @@
+[% home = 'http://cpan.uwinnipeg.ca' %]
+[%
+   search = "$home/search"
+   download = "$home/cpan"
+   doc = "$home/htdocs"
+   cpaninstall = "$home/cpan_install"
+   ppminstall = "$home/ppm_install"
+   ppmrequest = "$home/htdocs/ppm-request.html"
+   cpanimg = "$home/htdocs/cpan.jpg"
+   rssimg = "$home/htdocs/rss-10.gif"
+   testers = 'http://www.cpantesters.org/show/'
+   cpandeps = 'http://cpandeps.cantrell.org.uk/?module='
+   matrix = 'http://bbbike.radzeit.de/~slaven/cpantestersmatrix.cgi?'
+   testers_author = 'http://www.cpantesters.org/author/'
+   searchcpan = 'http://search.cpan.org/'
+   cpants = 'http://cpants.perl.org'
+   rt = 'http://rt.cpan.org/NoAuth/Bugs.html?Dist='
+   cpan = 'http://www.cpan.org'
+   forum = 'http://www.cpanforum.com/dist/'
+   anno = 'http://annocpan.org/dist/'
+   rate = 'http://cpanratings.perl.org/d/'
+   backpan = 'http://backpan.cpan.org'
+   maintainer = 'Randy Kobes'
+   maintainer_email = 'randy@theoryx5.uwinnipeg.ca'
+   faq =  "$home/htdocs/faqs/faq.html"
+   dslip = "$home/htdocs/faqs/dslip.html"
+   ppm = "$home/htdocs/faqs/ppm.html"
+   main = "$home/htdocs/faqs/cpan-search.html"
+   extra_files = { readme => {name => 'README', link => 'README.html'},
+                   meta => {name => 'META', link => 'META.html'},
+                   changes => {name => 'Changes', link => 'Changes.html'},
+                   install => {name => 'INSTALL', link => 'INSTALL.html'},
+                   makefile=> {name => 'Makefile.PL', link => 'Makefile.PL.html'},
+                   build=> {name => 'Build.PL', link => 'Build.PL.html'},
+                }
+%]

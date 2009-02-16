@@ -1,0 +1,31 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>CPAN services at the University of Winnipeg</title>
+</head>
+<!-- Background white, links blue (unvisited), navy (visited), red
+(active) -->
+<body bgcolor="#FFFFFF" text="#000000" link="#0000FF"
+vlink="#000080" alink="#FF0000">
+<UL>
+<LI><A HREF="cpan-search.html">CPAN search</A>
+ [<font size="-1">Enable installations using </font>
+<a href="http://cpan.uwinnipeg.ca/par/webstart.html"><font size="-1">PAR::WebStart</font></a>]
+</LI>
+<LI><A HREF="http://theoryx5.uwinnipeg.ca/cgi-bin/docperl">swish-e search of Perl documentation</A></LI>
+<LI><A HREF="perl/">Perl documentation</A></LI>
+<LI><A HREF="perl/perlfaq.html">Perl FAQs</A></LI>
+<LI>ppm repositories for Win32 ActivePerl <A HREF="http://theoryx5.uwinnipeg.ca/ppms/">8xx</A>
+and <A HREF="http://theoryx5.uwinnipeg.ca/ppmpackages/">6xx</A></LI>
+<LI><A HREF="http://theoryx5.uwinnipeg.ca/modperl/">mod_perl</A></LI>
+<LI><A HREF="http://theoryx5.uwinnipeg.ca/programming/">Introductory programming</A></LI>
+<LI><A HREF="http://theoryx5.uwinnipeg.ca/perltk/">Introduction to Perl/Tk</A></LI>
+</UL>
+<hr width="50%" size="8" />
+
+<div align="center"><A HREF="http://httpd.apache.org/">
+<img src="apache_pb2.png" alt="" /></A></div>
+</body>
+</html>
+

@@ -1,0 +1,9 @@
+<SOFTPKG NAME="Alias" VERSION="2.32">
+  <TITLE>Alias</TITLE>
+  <ABSTRACT>Convenient access to data/code via aliases</ABSTRACT>
+  <AUTHOR>Gurusamy Sarathy &lt;GSAR@cpan.org&gt;</AUTHOR>
+  <IMPLEMENTATION>
+    <CODEBASE HREF="http://cpan.uwinnipeg.ca/cpan/authors/id/G/GS/GSAR/Alias-2.32.tar.gz" />
+    <PROVIDE NAME="Alias" VERSION="2.32" />
+  </IMPLEMENTATION>
+</SOFTPKG>

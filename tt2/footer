@@ -1,0 +1,43 @@
+[% UNLESS meta %]
+<HR />
+<table width="100%">
+<tr>
+<td align=left>
+<font size="-2">
+[% pages.Problems %] <A HREF="mailto:[% maintainer_email %]">[% maintainer %]</A>.</font>
+</td>
+<td align=middle>
+<font size="-2">
+<script type="text/javascript"  src="http://adserver.szabgab.com/ads/direct_link.js"></script></font></td>
+<td align=right>
+<font size="-2">[% pages.Questions %]</font>
+<a href="[% faq %]"><font size="-1">FAQ</font></a>.
+</td></tr>
+<tr>
+<td align=left>
+<!-- Google CSE Search Box Begins -->
+  <form id="searchbox_008612298533221380725:fkvld4hw3zc" action="http://www.google.com/cse">
+    <input type="hidden" name="cx" value="008612298533221380725:fkvld4hw3zc" />
+    <input name="q" type="text" size="40" />
+    <input type="submit" name="sa" value="Search" />
+    <input type="hidden" name="cof" value="FORID:0" />
+  </form>
+  <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_008612298533221380725%3Afkvld4hw3zc"></script>
+<!-- Google CSE Search Box Ends -->
+</td><td align=middle> </td><td align=right>
+<font size="-2">Enable installations using </font>
+<a href="http://cpan.uwinnipeg.ca/par/webstart.html"><font size="-2">PAR::WebStart</font></a>.
+</td></tr>
+</table>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-7071947-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>
+[% END %]

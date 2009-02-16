@@ -1,0 +1,179 @@
+{
+   "resources" : {
+      "SearchCPAN" : "http://search.cpan.org/~GAAS/libwww-perl/",
+      "bugtracker" : "http://rt.cpan.org/NoAuth/Bugs.html?Dist=libwww-perl",
+      "UWinnipeg" : "http://cpan.uwinnipeg.ca/dist/libwww-perl",
+      "CPANTS" : "http://cpants.perl.org/dist/libwww-perl",
+      "CPANForum" : "http://www.cpanforum.com/dist/libwww-perl",
+      "Rating" : "http://cpanratings.perl.org/d/libwww-perl",
+      "AnnoCPAN" : "http://annocpan.org/dist/libwww-perl",
+      "Testers" : "http://cpantesters.perl.org/show/libwww-perl.html"
+   },
+   "generated_by" : "CPAN::Search::Lite v0.77",
+   "meta-spec" : {
+      "version" : 1.3,
+      "url" : "http://module-build.sourceforge.net/META-spec-v1.3.html"
+   },
+   "distribution_type" : "module",
+   "version" : 5.800,
+   "name" : "libwww-perl",
+   "author" : [
+      "Gisle Aas <GAAS@cpan.org>"
+   ],
+   "provides" : {
+      "LWP::Protocol::ftp" : {
+         "version" : 0
+      },
+      "LWP::Protocol::cpan" : {
+         "version" : 0
+      },
+      "HTTP::Status" : {
+         "version" : 1.28
+      },
+      "File::Listing" : {
+         "version" : 1.15
+      },
+      "LWP::Protocol::http10" : {
+         "version" : 0
+      },
+      "HTTP::Headers" : {
+         "version" : 1.61
+      },
+      "HTTP::Cookies::Microsoft" : {
+         "version" : 1.07
+      },
+      "LWP::Protocol::nogo" : {
+         "version" : 0
+      },
+      "LWP::Protocol::nntp" : {
+         "version" : 0
+      },
+      "HTTP::Daemon" : {
+         "version" : 1.35
+      },
+      "LWP::Protocol::mailto" : {
+         "version" : 0
+      },
+      "HTML::Form" : {
+         "version" : 1.044
+      },
+      "LWP::Protocol::gopher" : {
+         "version" : 0
+      },
+      "LWP::ConnCache" : {
+         "version" : 0.01
+      },
+      "Net::HTTPS" : {
+         "version" : 1.00
+      },
+      "HTTP::Cookies" : {
+         "version" : 1.38
+      },
+      "HTTP::Message" : {
+         "version" : 1.44
+      },
+      "HTTP::Headers::Auth" : {
+         "version" : 1.03
+      },
+      "HTTP::Request::Common" : {
+         "version" : 1.23
+      },
+      "LWP::Protocol::loopback" : {
+         "version" : 0
+      },
+      "HTTP::Response" : {
+         "version" : 1.49
+      },
+      "HTTP::Cookies::Netscape" : {
+         "version" : 1.26
+      },
+      "LWP::Authen::Ntlm" : {
+         "version" : 0.05
+      },
+      "LWP::Authen::Basic" : {
+         "version" : 0
+      },
+      "WWW::RobotRules" : {
+         "version" : 1.30
+      },
+      "LWP::Protocol" : {
+         "version" : 1.42
+      },
+      "HTTP::Request" : {
+         "version" : 1.40
+      },
+      "LWP" : {
+         "version" : 5.800
+      },
+      "LWP::MediaTypes" : {
+         "version" : 1.31
+      },
+      "LWP::Protocol::data" : {
+         "version" : 0
+      },
+      "HTTP::Negotiate" : {
+         "version" : 1.15
+      },
+      "LWP::Protocol::https" : {
+         "version" : 0
+      },
+      "Net::HTTP::NB" : {
+         "version" : 0.02
+      },
+      "LWP::Simple" : {
+         "version" : 1.41
+      },
+      "Net::HTTP" : {
+         "version" : 1.00
+      },
+      "LWP::DebugFile" : {
+         "version" : 0
+      },
+      "LWP::RobotUA" : {
+         "version" : 1.27
+      },
+      "LWP::Protocol::file" : {
+         "version" : 0
+      },
+      "HTTP::Headers::Util" : {
+         "version" : 1.13
+      },
+      "HTTP::Headers::ETag" : {
+         "version" : 1.04
+      },
+      "LWP::Authen::Digest" : {
+         "version" : 0
+      },
+      "LWP::Protocol::http" : {
+         "version" : 0
+      },
+      "HTTP::Date" : {
+         "version" : 1.46
+      },
+      "LWP::MemberMixin" : {
+         "version" : 0
+      },
+      "LWP::UserAgent" : {
+         "version" : 2.032
+      },
+      "LWP::Protocol::GHTTP" : {
+         "version" : 0
+      },
+      "Bundle::LWP" : {
+         "version" : 1.11
+      },
+      "LWP::Debug" : {
+         "version" : 0
+      },
+      "LWP::Protocol::https10" : {
+         "version" : 0
+      },
+      "WWW::RobotRules::AnyDBM_File" : {
+         "version" : 1.11
+      },
+      "Net::HTTP::Methods" : {
+         "version" : 1.00
+      }
+   },
+   "abstract" : "The World-Wide Web library for Perl"
+}

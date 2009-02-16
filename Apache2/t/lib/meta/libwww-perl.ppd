@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SOFTPKG NAME="libwww-perl" VERSION="5.800">
+  <TITLE>libwww-perl</TITLE>
+  <ABSTRACT>The World-Wide Web library for Perl</ABSTRACT>
+  <AUTHOR>Gisle Aas &lt;GAAS@cpan.org&gt;</AUTHOR>
+  <IMPLEMENTATION>
+    <CODEBASE HREF="http://cpan.uwinnipeg.ca/cpan/authors/id/G/GA/GAAS/libwww-perl-5.800.tar.gz" />
+    <PROVIDE NAME="Bundle::LWP" VERSION="1.11" />
+    <PROVIDE NAME="File::Listing" VERSION="1.15" />
+    <PROVIDE NAME="HTML::Form" VERSION="1.044" />
+    <PROVIDE NAME="HTTP::Cookies" VERSION="1.38" />
+    <PROVIDE NAME="HTTP::Cookies::Microsoft" VERSION="1.07" />
+    <PROVIDE NAME="HTTP::Cookies::Netscape" VERSION="1.26" />
+    <PROVIDE NAME="HTTP::Daemon" VERSION="1.35" />
+    <PROVIDE NAME="HTTP::Date" VERSION="1.46" />
+    <PROVIDE NAME="HTTP::Headers" VERSION="1.61" />
+    <PROVIDE NAME="HTTP::Headers::Auth" VERSION="1.03" />
+    <PROVIDE NAME="HTTP::Headers::ETag" VERSION="1.04" />
+    <PROVIDE NAME="HTTP::Headers::Util" VERSION="1.13" />
+    <PROVIDE NAME="HTTP::Message" VERSION="1.44" />
+    <PROVIDE NAME="HTTP::Negotiate" VERSION="1.15" />
+    <PROVIDE NAME="HTTP::Request" VERSION="1.40" />
+    <PROVIDE NAME="HTTP::Request::Common" VERSION="1.23" />
+    <PROVIDE NAME="HTTP::Response" VERSION="1.49" />
+    <PROVIDE NAME="HTTP::Status" VERSION="1.28" />
+    <PROVIDE NAME="LWP" VERSION="5.800" />
+    <PROVIDE NAME="LWP::Authen::Basic" VERSION="0" />
+    <PROVIDE NAME="LWP::Authen::Digest" VERSION="0" />
+    <PROVIDE NAME="LWP::Authen::Ntlm" VERSION="0.05" />
+    <PROVIDE NAME="LWP::ConnCache" VERSION="0.01" />
+    <PROVIDE NAME="LWP::Debug" VERSION="0" />
+    <PROVIDE NAME="LWP::DebugFile" VERSION="0" />
+    <PROVIDE NAME="LWP::MediaTypes" VERSION="1.31" />
+    <PROVIDE NAME="LWP::MemberMixin" VERSION="0" />
+    <PROVIDE NAME="LWP::Protocol" VERSION="1.42" />
+    <PROVIDE NAME="LWP::Protocol::cpan" VERSION="0" />
+    <PROVIDE NAME="LWP::Protocol::data" VERSION="0" />
+    <PROVIDE NAME="LWP::Protocol::file" VERSION="0" />
+    <PROVIDE NAME="LWP::Protocol::ftp" VERSION="0" />
+    <PROVIDE NAME="LWP::Protocol::GHTTP" VERSION="0" />
+    <PROVIDE NAME="LWP::Protocol::gopher" VERSION="0" />
+    <PROVIDE NAME="LWP::Protocol::http" VERSION="0" />
+    <PROVIDE NAME="LWP::Protocol::http10" VERSION="0" />
+    <PROVIDE NAME="LWP::Protocol::https" VERSION="0" />
+    <PROVIDE NAME="LWP::Protocol::https10" VERSION="0" />
+    <PROVIDE NAME="LWP::Protocol::loopback" VERSION="0" />
+    <PROVIDE NAME="LWP::Protocol::mailto" VERSION="0" />
+    <PROVIDE NAME="LWP::Protocol::nntp" VERSION="0" />
+    <PROVIDE NAME="LWP::Protocol::nogo" VERSION="0" />
+    <PROVIDE NAME="LWP::RobotUA" VERSION="1.27" />
+    <PROVIDE NAME="LWP::Simple" VERSION="1.41" />
+    <PROVIDE NAME="LWP::UserAgent" VERSION="2.032" />
+    <PROVIDE NAME="Net::HTTP" VERSION="1.00" />
+    <PROVIDE NAME="Net::HTTP::Methods" VERSION="1.00" />
+    <PROVIDE NAME="Net::HTTP::NB" VERSION="0.02" />
+    <PROVIDE NAME="Net::HTTPS" VERSION="1.00" />
+    <PROVIDE NAME="WWW::RobotRules" VERSION="1.30" />
+    <PROVIDE NAME="WWW::RobotRules::AnyDBM_File" VERSION="1.11" />
+  </IMPLEMENTATION>
+</SOFTPKG>

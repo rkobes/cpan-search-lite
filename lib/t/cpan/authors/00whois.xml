@@ -1,0 +1,1391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cpan-whois xmlns='http://www.cpan.org/xmlns/whois'
+            last-generated='Mon Dec  4 05:19:02 2006 GMT'
+            generated-by='Id: cron-daily.pl 785 2006-05-11 03:48:10Z k '>
+ <cpanid>
+  <id>GIFF</id>
+  <type>author</type>
+  <fullname>Scott Gifford</fullname>
+  <homepage>http://www.suspectclass.com/~sgifford/</homepage>
+  <email>sgifford@suspectclass.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GEEWIZ</id>
+  <type>author</type>
+  <fullname>Jochen Lillich</fullname>
+  <homepage>http://www.jochen-lillich.de</homepage>
+  <email>jochen@lillich.info</email>
+ </cpanid>
+ <cpanid>
+  <id>GOEDICKE</id>
+  <type>author</type>
+  <fullname>William Goedicke</fullname>
+  <homepage>http://www.goedsole.com:8080</homepage>
+  <email>goedicke@goedsole.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GWILLIAMS</id>
+  <type>author</type>
+  <fullname>Gregory Williams</fullname>
+  <homepage>http://kasei.us/</homepage>
+  <email>gwilliams@cpan.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GABY</id>
+  <type>author</type>
+  <fullname>Gaby Vanhegan</fullname>
+  <homepage></homepage>
+  <email>gaby@vanhegan.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GBROCK</id>
+  <type>author</type>
+  <fullname>Gavin Brock</fullname>
+  <homepage>http://brock-family.org/gavin</homepage>
+  <email>gbrock@cpan.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GREGFAST</id>
+  <type>author</type>
+  <fullname>Greg Fast</fullname>
+  <homepage>http://cken.chi.groogroo.com/</homepage>
+  <email>gdf@speakeasy.net</email>
+ </cpanid>
+ <cpanid>
+  <id>GERRIT</id>
+  <type>author</type>
+  <fullname>Gerrit P. Haase</fullname>
+  <homepage></homepage>
+  <email>gerrit@cpan.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GWARD</id>
+  <type>author</type>
+  <fullname>Greg Ward</fullname>
+  <homepage>http://starship.python.net/~gward/</homepage>
+  <email>gward@python.net</email>
+ </cpanid>
+ <cpanid>
+  <id>GREGORY</id>
+  <type>author</type>
+  <fullname>Gregory A. Rozanoff</fullname>
+  <homepage>http://gregory.pp.ru</homepage>
+  <email>rozanoff@gmail.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GALGIER</id>
+  <type>author</type>
+  <fullname>Gary Algier</fullname>
+  <homepage></homepage>
+  <email>gaa@ulticom.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GAFFER</id>
+  <type>author</type>
+  <fullname>George A. Fitch III</fullname>
+  <homepage>http://www.gaf3.com/</homepage>
+  <email>gaf3@gaf3.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GBAILEY</id>
+  <type>author</type>
+  <fullname>Glenn E. Bailey III</fullname>
+  <homepage></homepage>
+  <email>aaazhyd@yahoo.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GJRUSSEL</id>
+  <type>author</type>
+  <fullname>Geoff Russell</fullname>
+  <homepage></homepage>
+  <email>geoff@austrics.com.au</email>
+ </cpanid>
+ <cpanid>
+  <id>GGARAND</id>
+  <type>author</type>
+  <fullname>Germain Garand</fullname>
+  <homepage></homepage>
+  <email>germain@ebooksfrance.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GRAOUTS</id>
+  <type>author</type>
+  <fullname>Antoine Quint</fullname>
+  <homepage>http://www.graougraou.com/</homepage>
+  <email>antoine@graougraou.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GEOFFEG</id>
+  <type>author</type>
+  <fullname>Geoffrey Gallaway</fullname>
+  <homepage></homepage>
+  <email>pause@geoffeg.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GMILLERD</id>
+  <type>author</type>
+  <fullname>Gabriel Millerd</fullname>
+  <homepage></homepage>
+  <email>gmillerd@gmail.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GULLY</id>
+  <type>author</type>
+  <fullname>Gully APC Burns</fullname>
+  <homepage>http://www-rcf.usc.edu/~gully</homepage>
+  <email>GullyAPCBurns@yahoo.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GRIXON</id>
+  <type>author</type>
+  <fullname>Guy Rixon</fullname>
+  <homepage>http://archive.ast.cam.ac.uk/</homepage>
+  <email>gtr@ast.cam.ac.uk</email>
+ </cpanid>
+ <cpanid>
+  <id>GSA</id>
+  <type>author</type>
+  <fullname>Guillaume SABOURAUD</fullname>
+  <homepage>http://www.sabouraud.net</homepage>
+  <email>gsa@cpan.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GRAZZ</id>
+  <type>author</type>
+  <fullname>Steve Grazzini</fullname>
+  <homepage></homepage>
+  <email>grazz@pobox.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GBACON</id>
+  <type>author</type>
+  <fullname>Greg Bacon</fullname>
+  <homepage>http://home.hiwaay.net/~gbacon/</homepage>
+  <email>gbacon@hiwaay.net</email>
+ </cpanid>
+ <cpanid>
+  <id>GRICH</id>
+  <type>author</type>
+  <fullname>Gary Richardson</fullname>
+  <homepage></homepage>
+  <email>gary.richardson@marketingtips.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GMCCAR</id>
+  <type>author</type>
+  <fullname>Greg McCarroll</fullname>
+  <homepage>http://www.mccarroll.org.uk/~gem/</homepage>
+  <email>greg@mccarroll.org.uk</email>
+ </cpanid>
+ <cpanid>
+  <id>GIDON</id>
+  <type>author</type>
+  <fullname>Gidon Wise</fullname>
+  <homepage>http://www.gidon.com/</homepage>
+  <email>perl@gidon.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GKNAUSS</id>
+  <type>author</type>
+  <fullname>Greg Knauss</fullname>
+  <homepage>http://www.eod.com/</homepage>
+  <email>greg@eod.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GSAINIO</id>
+  <type>author</type>
+  <fullname>Garth Sainio</fullname>
+  <homepage></homepage>
+  <email>gsainio@gmail.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GAZERRO</id>
+  <type>author</type>
+  <fullname>Marco Gazerro</fullname>
+  <homepage></homepage>
+  <email>gazerro@open2b.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GREGARYH</id>
+  <type>author</type>
+  <fullname>Gregary A. Hendricks</fullname>
+  <homepage>www.empowermentconsulting.com</homepage>
+  <email>gregaryh@gmail.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GFLETCHER</id>
+  <type>author</type>
+  <fullname>Gordon Fletcher</fullname>
+  <homepage>http://www.spaceless.com</homepage>
+  <email>gordon@spaceless.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GBAUER</id>
+  <type>author</type>
+  <fullname>Georg Bauer</fullname>
+  <homepage>http:://www.westfalen.de/hugo/</homepage>
+  <email>gb@hugo.westfalen.de</email>
+ </cpanid>
+ <cpanid>
+  <id>GRICHTER</id>
+  <type>author</type>
+  <fullname>Gerald Richter</fullname>
+  <homepage>http://perl.apache.org/embperl/</homepage>
+  <email>richter@ecos.de</email>
+ </cpanid>
+ <cpanid>
+  <id>GENECUT</id>
+  <type>author</type>
+  <fullname>Gene Cutler</fullname>
+  <homepage></homepage>
+  <email>gene_perl@smalltime.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GGUREVICH</id>
+  <type>author</type>
+  <fullname>Gary Gurevich</fullname>
+  <homepage></homepage>
+  <email>garygurevich at gmail</email>
+ </cpanid>
+ <cpanid>
+  <id>GCLASS</id>
+  <type>author</type>
+  <fullname>Gregory Class</fullname>
+  <homepage>http://gregoryclass.com</homepage>
+  <email>gclass@gregoryclass.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GFK</id>
+  <type>author</type>
+  <fullname>Guillaume Filion</fullname>
+  <homepage>http://guillaume.filion.org/</homepage>
+  <email>guillaume@filion.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GARTH</id>
+  <type>author</type>
+  <fullname>Garth Winter Webb</fullname>
+  <homepage>http://www.perijove.com</homepage>
+  <email>garth@perijove.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GDR</id>
+  <type>author</type>
+  <fullname>Gareth D. Rees</fullname>
+  <homepage></homepage>
+  <email>garethr@cre.canon.co.uk</email>
+ </cpanid>
+ <cpanid>
+  <id>GOOZBACH</id>
+  <type>author</type>
+  <fullname>Derek Carter</fullname>
+  <homepage>http://www.friocorte.com</homepage>
+  <email>derek@gurulabs.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GEOFFR</id>
+  <type>author</type>
+  <fullname>Geoff Richards</fullname>
+  <homepage>http://www.laxan.com/</homepage>
+  <email>geoff@laxan.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GREP</id>
+  <type>author</type>
+  <fullname>Christian Brink</fullname>
+  <homepage>http:///www.yoda-speak.org</homepage>
+  <email>cbrink@flylines.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GSPIVEY</id>
+  <type>author</type>
+  <fullname>Gary Spivey</fullname>
+  <homepage>http://engr.georgefox.edu</homepage>
+  <email>spivey@ieee.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GFLOHR</id>
+  <type>author</type>
+  <fullname>Guido Flohr</fullname>
+  <homepage></homepage>
+  <email>gufl0000@stud.uni-sb.de</email>
+ </cpanid>
+ <cpanid>
+  <id>GLENNWOOD</id>
+  <type>author</type>
+  <fullname>Glenn Wood</fullname>
+  <homepage></homepage>
+  <email>glenwood@alumni.caltech.edu</email>
+ </cpanid>
+ <cpanid>
+  <id>GORK</id>
+  <type>author</type>
+  <fullname>John Laur</fullname>
+  <homepage>http://www.blurbco.com/~gork/</homepage>
+  <email>johnl@blurbco.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GSLONDON</id>
+  <type>author</type>
+  <fullname>Greg London</fullname>
+  <homepage>http://www.greglondon.com</homepage>
+  <email>DELETEALLCAPSemail@greglondon.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GNURD</id>
+  <type>author</type>
+  <fullname>Michael Stemle</fullname>
+  <homepage>http://www.gnurds.org/</homepage>
+  <email>mikes@gnurds.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GED</id>
+  <type>author</type>
+  <fullname>Michael Granger</fullname>
+  <homepage>http://www.devEiate.org/</homepage>
+  <email>ged-cpan@faeriemud.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GREB</id>
+  <type>author</type>
+  <fullname>Florian Greb</fullname>
+  <homepage></homepage>
+  <email>greb@cpan.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GSLIN</id>
+  <type>author</type>
+  <fullname>Gea-Suan Lin</fullname>
+  <homepage>http://blog.gslin.org/</homepage>
+  <email>gslin@cpan.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GCOULOMB</id>
+  <type>author</type>
+  <fullname>Greg Coulombe</fullname>
+  <homepage></homepage>
+  <email>Greg.Coulombe@ualberta.ca</email>
+ </cpanid>
+ <cpanid>
+  <id>GEOTIGER</id>
+  <type>author</type>
+  <fullname>Geo Tiger</fullname>
+  <homepage>http://experts-exchange.com/M_349686.html</homepage>
+  <email>geotiger2001@yahoo.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GUS</id>
+  <type>author</type>
+  <fullname>Guido Socher</fullname>
+  <homepage>http://linuxfocus.org/~guido/</homepage>
+  <email>guido@NO_SPAM.linuxfocus.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GUGOD</id>
+  <type>author</type>
+  <fullname>劉康民</fullname>
+  <homepage>http://gugod.org/</homepage>
+  <email>gugod@gugod.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GWADEJ</id>
+  <type>author</type>
+  <fullname>G. Wade Johnson</fullname>
+  <homepage>http://www.anomaly.org/wade/</homepage>
+  <email>wade@anomaly.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GHENRY</id>
+  <type>author</type>
+  <fullname>Gavin Henry</fullname>
+  <homepage>http://www.suretecsystems.com</homepage>
+  <email>ghenry@perl.me.uk</email>
+ </cpanid>
+ <cpanid>
+  <id>GUGU</id>
+  <type>author</type>
+  <fullname>Андрей Костенко</fullname>
+  <homepage>http://utterfool.com</homepage>
+  <email>gugu@cpan.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GGAL</id>
+  <type>author</type>
+  <fullname>George D. Gal</fullname>
+  <homepage></homepage>
+  <email>george@vsecurity.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GSM</id>
+  <type>author</type>
+  <fullname>Giovanni S Marzot</fullname>
+  <homepage></homepage>
+  <email>marz@users.sourceforge.net</email>
+ </cpanid>
+ <cpanid>
+  <id>GARDNER</id>
+  <type>author</type>
+  <fullname>Daniel Gardner</fullname>
+  <homepage>http://www.danielgardner.org/</homepage>
+  <email>da_S_niel@da_P_nie_A_lgard_M_ner.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GROMMEL</id>
+  <type>author</type>
+  <fullname>Geoffrey Rommel</fullname>
+  <homepage></homepage>
+  <email>grommel@cpan.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GILAD</id>
+  <type>author</type>
+  <fullname>James Robson</fullname>
+  <homepage></homepage>
+  <email>gilad@arbingersys.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GHUTCHIS</id>
+  <type>author</type>
+  <fullname>Geoffrey Hutchison</fullname>
+  <homepage>http://geoffhutchison.net/</homepage>
+  <email>perl@geoffhutchison.net</email>
+ </cpanid>
+ <cpanid>
+  <id>GREGG</id>
+  <type>author</type>
+  <fullname>Gregg Helt</fullname>
+  <homepage>ftp://fruitfly.berkeley.edu/pub/bioTk/</homepage>
+  <email>gregg@fruitfly.berkeley.edu</email>
+ </cpanid>
+ <cpanid>
+  <id>GURUGLENN</id>
+  <type>author</type>
+  <fullname>Glenn Linderman</fullname>
+  <homepage>http://nevcal.com/</homepage>
+  <email>perl@nevcal.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GCAMPBELL</id>
+  <type>author</type>
+  <fullname>George Campbell</fullname>
+  <homepage>http://www.verisign.com/</homepage>
+  <email>gcampbell-at-verisign-dot-com</email>
+ </cpanid>
+ <cpanid>
+  <id>GHALSE</id>
+  <type>author</type>
+  <fullname>Guy Antony Halse</fullname>
+  <homepage>http://mombe.org/</homepage>
+  <email>guy-japh@rucus.ru.ac.za</email>
+ </cpanid>
+ <cpanid>
+  <id>GMPASSOS</id>
+  <type>author</type>
+  <fullname>Graciliano Monteiro Passos</fullname>
+  <homepage>http://www.virtuasites.com.br/</homepage>
+  <email>gmpassos@cpan.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GCOHEN</id>
+  <type>author</type>
+  <fullname>Gil Cohen</fullname>
+  <homepage>http://www.producto-valvo.com</homepage>
+  <email>gcohen@producto-valvo.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GRI</id>
+  <type>author</type>
+  <fullname>Paul Grinberg</fullname>
+  <homepage></homepage>
+  <email>gri6507@yahoo.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GLASSCOCK</id>
+  <type>author</type>
+  <fullname>Jarret Glasscock</fullname>
+  <homepage></homepage>
+  <email>glasscock_cpan@mac.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GUIMARD</id>
+  <type>author</type>
+  <fullname>Xavier Guimard</fullname>
+  <homepage>http://x.guimard.free.fr/</homepage>
+  <email>perl@astola.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GKE</id>
+  <type>author</type>
+  <fullname>Gustav Kristoffer Ek</fullname>
+  <homepage>http://ek.dk/</homepage>
+  <email>stoffer@netcetera.dk</email>
+ </cpanid>
+ <cpanid>
+  <id>GHEALTON</id>
+  <type>author</type>
+  <fullname>Gilbert Healton</fullname>
+  <homepage>http://www.exit109.com/~ghealton/</homepage>
+  <email>ghealton@exit109.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GMAX</id>
+  <type>author</type>
+  <fullname>Giuseppe Maxia</fullname>
+  <homepage></homepage>
+  <email>gmax@cpan.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GRUDZIAR</id>
+  <type>author</type>
+  <fullname>Arkady Grudzinsky</fullname>
+  <homepage></homepage>
+  <email>grudziar@linuxhightech.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GWOLF</id>
+  <type>author</type>
+  <fullname>Gunnar Wolf</fullname>
+  <homepage>http://www.gwolf.org</homepage>
+  <email>gwolf@gwolf.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GOYALI</id>
+  <type>author</type>
+  <fullname>Abhishek Jain</fullname>
+  <homepage>http://www.sms1.in</homepage>
+  <email>subs@ejain.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GRAVALO</id>
+  <type>author</type>
+  <fullname>Gene Gallistel</fullname>
+  <homepage></homepage>
+  <email>gravalo@uwm.edu</email>
+ </cpanid>
+ <cpanid>
+  <id>GGONTER</id>
+  <type>author</type>
+  <fullname>Gerhard Gonter</fullname>
+  <homepage></homepage>
+  <email>g.gonter@ieee.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GOZER</id>
+  <type>author</type>
+  <fullname>Philippe M. Chiasson</fullname>
+  <homepage>http://gozer.ectoplasm.org/</homepage>
+  <email>gozer@cpan.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GNAZAREY</id>
+  <type>author</type>
+  <fullname>George J. Nazarey Jr.</fullname>
+  <homepage></homepage>
+  <email>gnazarey@comcast.net</email>
+ </cpanid>
+ <cpanid>
+  <id>GBJK</id>
+  <type>author</type>
+  <fullname>Gareth Kirwan</fullname>
+  <homepage>http://www.thermeoneurope.com</homepage>
+  <email>gbjk@thermeoneurope.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GOSSAMER</id>
+  <type>author</type>
+  <fullname>Ricky Buchanan</fullname>
+  <homepage>http://www.tertius.net.au/~rb/</homepage>
+  <email>rb@tertius.net.au</email>
+ </cpanid>
+ <cpanid>
+  <id>GENEPERL</id>
+  <type>author</type>
+  <fullname>Gene Cutler</fullname>
+  <homepage>http://www.smalltime.com</homepage>
+  <email>gene_perl@smalltime.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GNG</id>
+  <type>author</type>
+  <fullname>Greg George</fullname>
+  <homepage></homepage>
+  <email>gng@cpan.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GWORROLL</id>
+  <type>author</type>
+  <fullname>George E Worroll Jr</fullname>
+  <homepage>http://agl.indrasweb.com/html/</homepage>
+  <email>geworrolljr@optonline.net</email>
+ </cpanid>
+ <cpanid>
+  <id>GPOLART</id>
+  <type>author</type>
+  <fullname>Gilles POLART-DONAT</fullname>
+  <homepage></homepage>
+  <email>gpolart@free.fr</email>
+ </cpanid>
+ <cpanid>
+  <id>GARYAJ</id>
+  <type>author</type>
+  <fullname>Gary Ashton-Jones</fullname>
+  <homepage></homepage>
+  <email>gary@ashton-jones.com.au</email>
+ </cpanid>
+ <cpanid>
+  <id>GKNOPS</id>
+  <type>author</type>
+  <fullname>Gerd Knops</fullname>
+  <homepage></homepage>
+  <email>gerti@BITart.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GENJISCH</id>
+  <type>author</type>
+  <fullname>Genji Schmeder</fullname>
+  <homepage></homepage>
+  <email>genji@jps.net</email>
+ </cpanid>
+ <cpanid>
+  <id>GUYDX</id>
+  <type>author</type>
+  <fullname>Guy Decoux</fullname>
+  <homepage></homepage>
+  <email>decoux@moulon.inra.fr</email>
+ </cpanid>
+ <cpanid>
+  <id>GOSHA</id>
+  <type>author</type>
+  <fullname>Okunev Igor</fullname>
+  <homepage>http://home.sinn.ru/~gosha/perl-scripts/</homepage>
+  <email>pause@prv.mts-nn.ru</email>
+ </cpanid>
+ <cpanid>
+  <id>GLEACH</id>
+  <type>author</type>
+  <fullname>Geoffrey Leach</fullname>
+  <homepage></homepage>
+  <email>geoff@hughes.net</email>
+ </cpanid>
+ <cpanid>
+  <id>GAVINC</id>
+  <type>author</type>
+  <fullname>Gavin Carr</fullname>
+  <homepage>http://www.openfusion.com.au/</homepage>
+  <email>gavin@openfusion.com.au</email>
+ </cpanid>
+ <cpanid>
+  <id>GSPI</id>
+  <type>author</type>
+  <fullname>Gerhard Spitzlsperger</fullname>
+  <homepage>www.gs68.de</homepage>
+  <email>gerhard.spitzlsperger@gs68.de</email>
+ </cpanid>
+ <cpanid>
+  <id>GARNADI</id>
+  <type>author</type>
+  <fullname>Iwan Garnadi</fullname>
+  <homepage>http://www.garnadi.org</homepage>
+  <email>garnadi@cpan.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GARTHD</id>
+  <type>author</type>
+  <fullname>Garth Douglass</fullname>
+  <homepage></homepage>
+  <email>garth@rubberband.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GWELCH</id>
+  <type>author</type>
+  <fullname>Gerad Welch</fullname>
+  <homepage></homepage>
+  <email>welch.119@osu.edu</email>
+ </cpanid>
+ <cpanid>
+  <id>GABB</id>
+  <type>author</type>
+  <fullname>Danijel Milicevic</fullname>
+  <homepage>http://www.danijel.de</homepage>
+  <email>info@danijel.de</email>
+ </cpanid>
+ <cpanid>
+  <id>GIRAFFED</id>
+  <type>author</type>
+  <fullname>Bryan Henderson</fullname>
+  <homepage></homepage>
+  <email>bryanh@giraffe-data.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GROOVIS</id>
+  <type>author</type>
+  <fullname>Michael Kastelein</fullname>
+  <homepage>http://groovis.net</homepage>
+  <email>groovis@groovis.net</email>
+ </cpanid>
+ <cpanid>
+  <id>GIEGERICH</id>
+  <type>author</type>
+  <fullname>Clemens Giegerich</fullname>
+  <homepage></homepage>
+  <email>clemens.giegerich@web.de</email>
+ </cpanid>
+ <cpanid>
+  <id>GOPI</id>
+  <type>author</type>
+  <fullname>S.Gopi</fullname>
+  <homepage></homepage>
+  <email>sekargopi@yahoo.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GAISSMAI</id>
+  <type>author</type>
+  <fullname>Karl Gaissmaier</fullname>
+  <homepage></homepage>
+  <email>karl.gaissmaier@kiz.uni-ulm.de</email>
+ </cpanid>
+ <cpanid>
+  <id>GORD</id>
+  <type>author</type>
+  <fullname>Gordon Matzigkeit</fullname>
+  <homepage>http://fig.org/gord/</homepage>
+  <email>gord@fig.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GPHAT</id>
+  <type>author</type>
+  <fullname>Cory Watson</fullname>
+  <homepage>http://www.onemogin.com/blog/</homepage>
+  <email>gphat@cpan.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GSIMMONS</id>
+  <type>author</type>
+  <fullname>Geoff Simmons</fullname>
+  <homepage></homepage>
+  <email>gsimmons@cpan.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GMG</id>
+  <type>author</type>
+  <fullname>Gian Maria Gamboni</fullname>
+  <homepage></homepage>
+  <email>gmg@cpan.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GRANTG</id>
+  <type>author</type>
+  <fullname>Grant Grueninger</fullname>
+  <homepage>http://www.grantgrueninger.com/</homepage>
+  <email>grantg@spamarrest.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GSPAF</id>
+  <type>author</type>
+  <fullname>Gene Spafford</fullname>
+  <homepage></homepage>
+  <email>spaf@cs.purdue.edu</email>
+ </cpanid>
+ <cpanid>
+  <id>GTHYNI</id>
+  <type>author</type>
+  <fullname>Göran Thyni</fullname>
+  <homepage>http://kirra.net/</homepage>
+  <email>goran@kirra.net</email>
+ </cpanid>
+ <cpanid>
+  <id>GLASSER</id>
+  <type>author</type>
+  <fullname>David Glasser</fullname>
+  <homepage></homepage>
+  <email>glasser@mit.edu</email>
+ </cpanid>
+ <cpanid>
+  <id>GKAPUR</id>
+  <type>author</type>
+  <fullname>Gyan Kapur</fullname>
+  <homepage></homepage>
+  <email>gkapur@myrealbox.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GSAR</id>
+  <type>author</type>
+  <fullname>Gurusamy Sarathy</fullname>
+  <homepage>ftp://ftp.linux.activestate.com/pub/staff/gsar/</homepage>
+  <email>gsar@cpan.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GWYN</id>
+  <type>author</type>
+  <fullname>Philip Gwyn</fullname>
+  <homepage></homepage>
+  <email>perl@pied.nu</email>
+ </cpanid>
+ <cpanid>
+  <id>GOLD</id>
+  <type>author</type>
+  <fullname>Gerald Gold</fullname>
+  <homepage>http://www.channelping.com/</homepage>
+  <email>gold@channelping.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GUNNAR</id>
+  <type>author</type>
+  <fullname>Gunnar Hjalmarsson</fullname>
+  <homepage>http://www.gunnar.cc/</homepage>
+  <email>cpan@gunnar.cc</email>
+ </cpanid>
+ <cpanid>
+  <id>GAVIN</id>
+  <type>author</type>
+  <fullname>Gavin McDonald</fullname>
+  <homepage>www.minitutorials.com</homepage>
+  <email>brightoncomputers@&lt;nospam&gt;.brightontown.com.au</email>
+ </cpanid>
+ <cpanid>
+  <id>GBARR</id>
+  <type>author</type>
+  <fullname>Graham Barr</fullname>
+  <homepage>http://www.pobox.com/~gbarr</homepage>
+  <email>gbarr@pobox.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GAOD</id>
+  <type>author</type>
+  <fullname>Hong-Yi Chen</fullname>
+  <homepage></homepage>
+  <email>gaod@cpan.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GRANDPA</id>
+  <type>author</type>
+  <fullname>Peter Jaquiery</fullname>
+  <homepage></homepage>
+  <email>grandpa@cpan.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GBROWN</id>
+  <type>author</type>
+  <fullname>Gavin Brown</fullname>
+  <homepage>http://jodrell.net/</homepage>
+  <email>moc.ku@nworb.mapson.nivag</email>
+ </cpanid>
+ <cpanid>
+  <id>GUELICH</id>
+  <type>author</type>
+  <fullname>Scott Guelich</fullname>
+  <homepage>http://www.scripted.com/</homepage>
+  <email>scott@scripted.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GEOFF</id>
+  <type>author</type>
+  <fullname>Geoffrey Young</fullname>
+  <homepage></homepage>
+  <email>geoff@cpan.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GRIMOIRE</id>
+  <type>author</type>
+  <fullname>Alex Page</fullname>
+  <homepage>http://www.cpio.org/~grimoire/</homepage>
+  <email>grimoire@corinne.cpio.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GAGNONM</id>
+  <type>author</type>
+  <fullname>Mathieu Gagnon</fullname>
+  <homepage>http://www.zebrocratie.org</homepage>
+  <email>gagnonm@cpan.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GRENDELUK</id>
+  <type>author</type>
+  <fullname>Paul Tweedy</fullname>
+  <homepage>http://www.digitaltrickery.com/</homepage>
+  <email>paul@digitaltrickery.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GOLM</id>
+  <type>author</type>
+  <fullname>Brandon L. Golm</fullname>
+  <homepage>http://www.golm.com/</homepage>
+  <email>br@ndon.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GNAT</id>
+  <type>author</type>
+  <fullname>Nathan Torkington</fullname>
+  <homepage>http://nathan.torkington.com/</homepage>
+  <email>nathan@torkington.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GTERMARS</id>
+  <type>author</type>
+  <fullname>Graham TerMarsch</fullname>
+  <homepage></homepage>
+  <email>cpan@howlingfrog.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GAAS</id>
+  <type>author</type>
+  <fullname>Gisle Aas</fullname>
+  <homepage>http://gisle.aas.no</homepage>
+  <email>gisle@ActiveState.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GRIPE</id>
+  <type>author</type>
+  <fullname>Matt Shaw</fullname>
+  <homepage></homepage>
+  <email>scarce@nbnet.nb.ca</email>
+ </cpanid>
+ <cpanid>
+  <id>GAND</id>
+  <type>author</type>
+  <fullname>Greg Anderson</fullname>
+  <homepage></homepage>
+  <email>greg@ftp.netgate.net</email>
+ </cpanid>
+ <cpanid>
+  <id>GAMBURGER</id>
+  <type>author</type>
+  <fullname>Мякинин Тимур Алексеевич</fullname>
+  <homepage>http://yaebu.ru</homepage>
+  <email>gamburger@cpan.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GSCHLOSS</id>
+  <type>author</type>
+  <fullname>George Schlossnagle</fullname>
+  <homepage>http://www.omniti.com/~george/</homepage>
+  <email>george@omniti.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GARY</id>
+  <type>author</type>
+  <fullname>Gary Howland</fullname>
+  <homepage>http://www.systemics.com/</homepage>
+  <email>gary@hotlava.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GARROW</id>
+  <type>author</type>
+  <fullname>John M. Redford</fullname>
+  <homepage></homepage>
+  <email>garrow@cpan,org</email>
+ </cpanid>
+ <cpanid>
+  <id>GRYPHON</id>
+  <type>author</type>
+  <fullname>Gryphon Shafer</fullname>
+  <homepage>http://gryphonshafer.com</homepage>
+  <email>gryphon@cpan.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GUTZMANN</id>
+  <type>author</type>
+  <fullname>Thomas Gutzmann</fullname>
+  <homepage>www.gutzmann.com</homepage>
+  <email>thomas.gutzmann@gutzmann.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GTHEALL</id>
+  <type>author</type>
+  <fullname>George A. Theall</fullname>
+  <homepage>http://www.tifaware.com/</homepage>
+  <email>theall@tifaware.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GUIDO</id>
+  <type>author</type>
+  <fullname>Guido Flohr</fullname>
+  <homepage>http://www.imperia.net/</homepage>
+  <email>guido@imperia.net</email>
+ </cpanid>
+ <cpanid>
+  <id>GAV</id>
+  <type>author</type>
+  <fullname>Gavin Estey</fullname>
+  <homepage>http://www.estey.com</homepage>
+  <email>gav@japh.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GARNACHO</id>
+  <type>author</type>
+  <fullname>Carlos Garnacho Parro</fullname>
+  <homepage></homepage>
+  <email>carlosg@gnome.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GGOEBEL</id>
+  <type>author</type>
+  <fullname>C. Garrett Goebel</fullname>
+  <homepage></homepage>
+  <email>ggoebel@cpan.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GLENSMALL</id>
+  <type>author</type>
+  <fullname>Glen Small</fullname>
+  <homepage></homepage>
+  <email>perl.dev@cyberex.org.uk</email>
+ </cpanid>
+ <cpanid>
+  <id>GONZO</id>
+  <type>author</type>
+  <fullname>Sven Kleese</fullname>
+  <homepage>http://www.prantello.de/</homepage>
+  <email>gonzo@cpan.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GYEPI</id>
+  <type>author</type>
+  <fullname>Gyepi Sam</fullname>
+  <homepage>http://www.praxis-sw.com/</homepage>
+  <email>gyepi@cpan.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GDAMORE</id>
+  <type>author</type>
+  <fullname>Garrett D'Amore</fullname>
+  <homepage></homepage>
+  <email>garrett@yavin.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GENIE</id>
+  <type>author</type>
+  <fullname>Goldin Evgeny</fullname>
+  <homepage>http://geniek.net</homepage>
+  <email>geniek@netvision.net.il</email>
+ </cpanid>
+ <cpanid>
+  <id>GENE</id>
+  <type>author</type>
+  <fullname>Gene Boggs</fullname>
+  <homepage>http://ology.net/</homepage>
+  <email>gene@cpan.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GROSSMANN</id>
+  <type>author</type>
+  <fullname>Björn Grossmann</fullname>
+  <homepage></homepage>
+  <email>grossmann@cpan.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GREGOR</id>
+  <type>author</type>
+  <fullname>Gregor N. Purdy</fullname>
+  <homepage>http://www.focusresearch.com/gregor/</homepage>
+  <email>gregor@focusresearch.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GRUBER</id>
+  <type>author</type>
+  <fullname>Anton Berezin</fullname>
+  <homepage>http://www.tobez.org/</homepage>
+  <email>tobez@tobez.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GUILLAUME</id>
+  <type>author</type>
+  <fullname>Guillaume Fougnies</fullname>
+  <homepage></homepage>
+  <email>guillaume@eulerian.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GNALABS</id>
+  <type>author</type>
+  <fullname>Joseph Wang</fullname>
+  <homepage>http://www.gnacademy.org/</homepage>
+  <email>gna@gnacademy.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GRAHAMC</id>
+  <type>author</type>
+  <fullname>Graham Crookham</fullname>
+  <homepage></homepage>
+  <email>grahamc@cpan.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GGOUDSMIT</id>
+  <type>author</type>
+  <fullname>Gilion Goudsmit</fullname>
+  <homepage>http://www.shebang.nl/</homepage>
+  <email>cpan@shebang.nl</email>
+ </cpanid>
+ <cpanid>
+  <id>GABOR</id>
+  <type>author</type>
+  <fullname>Gábor Egressy</fullname>
+  <homepage>http://www.vmunix.com/~gabor/</homepage>
+  <email>gabor@vmunix.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GISEBURT</id>
+  <type>author</type>
+  <fullname>Rob Giseburt</fullname>
+  <homepage></homepage>
+  <email>rob@heavyhosting.net</email>
+ </cpanid>
+ <cpanid>
+  <id>GUNTHER</id>
+  <type>author</type>
+  <fullname>Gunther Birznieks</fullname>
+  <homepage>http://www.extropia.com/</homepage>
+  <email>gunther@extropia.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GRANTM</id>
+  <type>author</type>
+  <fullname>Grant McLean</fullname>
+  <homepage>http://www.mclean.net.nz/</homepage>
+  <email>grantm@cpan.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GOLDBB</id>
+  <type>author</type>
+  <fullname>Benjamin Goldberg</fullname>
+  <homepage></homepage>
+  <email>goldbb@cpan.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GCARLS</id>
+  <type>author</type>
+  <fullname>Guido Carls</fullname>
+  <homepage></homepage>
+  <email>gcarls@cpan.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GRATEMYL</id>
+  <type>author</type>
+  <fullname>Jerome Baum</fullname>
+  <homepage></homepage>
+  <email>gratemyl@cpan.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GBOSS</id>
+  <type>author</type>
+  <fullname>Greg Bossert</fullname>
+  <homepage>http://www.fuaim.com/cpan/</homepage>
+  <email>bossert@fuaim.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GRAHJENK</id>
+  <type>author</type>
+  <fullname>Graham Jenkins</fullname>
+  <homepage></homepage>
+  <email>grahjenk@hotmail.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GDEWIS</id>
+  <type>author</type>
+  <fullname>Gordon Dewis</fullname>
+  <homepage></homepage>
+  <email>gordon@pinetree.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GAGGINO</id>
+  <type>author</type>
+  <fullname>Paolo Gaggia</fullname>
+  <homepage>www.confor.it</homepage>
+  <email>p.gaggia@confor.it</email>
+ </cpanid>
+ <cpanid>
+  <id>GHOARE</id>
+  <type>author</type>
+  <fullname>Graydon Hoare</fullname>
+  <homepage></homepage>
+  <email>graydon@groveware.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GROUSSE</id>
+  <type>author</type>
+  <fullname>Guillaume Rousse</fullname>
+  <homepage>http://lis.snv.jussieu.fr/~rousse</homepage>
+  <email>grousse@cpan.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GOLHARAM</id>
+  <type>author</type>
+  <fullname>Ryan Golhar</fullname>
+  <homepage></homepage>
+  <email>golharam@umdnj.edu</email>
+ </cpanid>
+ <cpanid>
+  <id>GUNYA</id>
+  <type>author</type>
+  <fullname>GUNYARA-KUN</fullname>
+  <homepage></homepage>
+  <email>gunya@cpan.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GDSL</id>
+  <type>author</type>
+  <fullname>Sergey Skvortsov</fullname>
+  <homepage></homepage>
+  <email>skv@protey.ru</email>
+ </cpanid>
+ <cpanid>
+  <id>GUIDOPIAN</id>
+  <type>author</type>
+  <fullname>Steve Piantadosi</fullname>
+  <homepage></homepage>
+  <email>guidopian@yahoo.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GRISKEY</id>
+  <type>author</type>
+  <fullname>Mark Griskey</fullname>
+  <homepage></homepage>
+  <email>mark@linuxhardware.net</email>
+ </cpanid>
+ <cpanid>
+  <id>GOEVERT</id>
+  <type>author</type>
+  <fullname>Norbert Gövert</fullname>
+  <homepage></homepage>
+  <email>goevert@ls6.cs.uni-dortmund.de</email>
+ </cpanid>
+ <cpanid>
+  <id>GLOVER</id>
+  <type>author</type>
+  <fullname>Mike Glover</fullname>
+  <homepage></homepage>
+  <email>glover@credit.erin.utoronto.ca</email>
+ </cpanid>
+ <cpanid>
+  <id>GEORG</id>
+  <type>author</type>
+  <fullname>Gheorghe Chesler</fullname>
+  <homepage>http://www.nightmedia.net/</homepage>
+  <email>office@nightmedia.net</email>
+ </cpanid>
+ <cpanid>
+  <id>GMLEWIS</id>
+  <type>author</type>
+  <fullname>Glenn M. Lewis</fullname>
+  <homepage>http://www.gmlewis.com</homepage>
+  <email>glenn@gmlewis.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GRODITI</id>
+  <type>author</type>
+  <fullname>Guillermo Roditi</fullname>
+  <homepage>http://groditi-code.blogspot.com/</homepage>
+  <email>groditi@gmail.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GIULIENK</id>
+  <type>author</type>
+  <fullname>Giulio Motta</fullname>
+  <homepage>http://www.giuliomotta.com/</homepage>
+  <email>giulienk@cpan.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GAM</id>
+  <type>author</type>
+  <fullname>G. Allen Morris III</fullname>
+  <homepage>http://www.gam3.net/</homepage>
+  <email>gam3-pause@gam3.net</email>
+ </cpanid>
+ <cpanid>
+  <id>GREIZHANG</id>
+  <type>author</type>
+  <fullname>Grei Zhang</fullname>
+  <homepage></homepage>
+  <email>greijohn@yahoo.com.cn</email>
+ </cpanid>
+ <cpanid>
+  <id>GWL</id>
+  <type>author</type>
+  <fullname>Gerry  Lawrence</fullname>
+  <homepage>http://www.leanox.com</homepage>
+  <email>gwlperl@gmail.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GJB</id>
+  <type>author</type>
+  <fullname>Geoffrey Broadwell</fullname>
+  <homepage></homepage>
+  <email>habusan2@sprynet.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GAAL</id>
+  <type>author</type>
+  <fullname>Gaal Yahas</fullname>
+  <homepage>http://www.forum2.org/gaal/</homepage>
+  <email>gaal@forum2.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GWHULBERT</id>
+  <type>author</type>
+  <fullname>Guy W. Hulbert</fullname>
+  <homepage></homepage>
+  <email>gwhulbert@cpan.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GRISHACE</id>
+  <type>author</type>
+  <fullname>Gregory Belenky</fullname>
+  <homepage>www.webzavod.ru</homepage>
+  <email>greg@webzavod.ru</email>
+ </cpanid>
+ <cpanid>
+  <id>GEHIC</id>
+  <type>author</type>
+  <fullname>Gerard Hickey</fullname>
+  <homepage>http://www.ctron.com/~hickey</homepage>
+  <email>hickey@ctron.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GRAY</id>
+  <type>author</type>
+  <fullname>gray</fullname>
+  <homepage></homepage>
+  <email>gray@cpan.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GERBERRI</id>
+  <type>author</type>
+  <fullname>Richard Gerber</fullname>
+  <homepage></homepage>
+  <email>richardgerber@yahoo.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GSEAMAN</id>
+  <type>author</type>
+  <fullname>Graham Seaman</fullname>
+  <homepage></homepage>
+  <email>graham@opencollector.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GOMOR</id>
+  <type>author</type>
+  <fullname>Patrice Auffret</fullname>
+  <homepage>http://www.gomor.org/</homepage>
+  <email>gomor@cpan.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GAFFIE</id>
+  <type>author</type>
+  <fullname>Mario Gaffiero</fullname>
+  <homepage>https://sourceforge.net/projects/pequel/</homepage>
+  <email>gaffie@cpan.org</email>
+ </cpanid>
+ <cpanid>
+  <id>GIMPIT</id>
+  <type>author</type>
+  <fullname>Jay Scherrer</fullname>
+  <homepage>http://jay.scherrer.com</homepage>
+  <email>jay@scherrer.com</email>
+ </cpanid>
+ <cpanid>
+  <id>GBURGER</id>
+  <type>author</type>
+  <fullname>Gert Burger</fullname>
+  <homepage></homepage>
+  <email>gburger@cs.up.ac.za</email>
+ </cpanid>
+</cpan-whois>

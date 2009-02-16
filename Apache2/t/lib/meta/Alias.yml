@@ -1,0 +1,23 @@
+--- #YAML:1.0
+name: Alias
+version: 2.32
+abstract: Convenient access to data/code via aliases
+author:
+  - 'Gurusamy Sarathy <GSAR@cpan.org>'
+distribution_type: module
+provides:
+  Alias:
+    version: 2.32
+resources:
+  AnnoCPAN: http://annocpan.org/dist/Alias
+  CPANForum: http://www.cpanforum.com/dist/Alias
+  CPANTS: http://cpants.perl.org/dist/Alias
+  Rating: http://cpanratings.perl.org/d/Alias
+  SearchCPAN: http://search.cpan.org/~GSAR/Alias/
+  Testers: http://cpantesters.perl.org/show/Alias.html
+  UWinnipeg: http://cpan.uwinnipeg.ca/dist/Alias
+  bugtracker: http://rt.cpan.org/NoAuth/Bugs.html?Dist=Alias
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.3.html
+  version: 1.3
+generated_by: CPAN::Search::Lite v0.77
