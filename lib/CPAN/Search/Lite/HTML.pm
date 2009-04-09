@@ -213,9 +213,22 @@ END
   my $xhtml = MyPodXhtml->new(TopLinks => $top, MakeMeta => 0,
 			     LinkParser => $linkparser,
 			     MakeIndex => 2);
+  my $analytics = <<'END';
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-7071947-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+END
   $xhtml->addHeadText("$headtext\n");
   $xhtml->addBodyOpenText("\n$dist_text\n<hr />$doc_text<hr />\n");
   $xhtml->addBodyCloseText("\n<hr />$doc_text\n");
+  $xhtml->addBodyCloseText("\n$analytics\n");
   $xhtml->parse_from_file($source, $outfile);
   return 1;
 }
