@@ -20,7 +20,7 @@ Categories</a> &nbsp; &nbsp;<b>&gt; &gt; </b>&nbsp; &nbsp;
 <td width="33%">
 <a href="[% home %]/dist/[% item.dist_name %]">[% item.dist_name %]</a>
 [% IF item.dist_abs %]
-<br /><small>[% item.dist_abs %]</small>
+<br /><small>[% item.dist_abs | html %]</small>
 [% END -%]
 [% END -%]
 </td>

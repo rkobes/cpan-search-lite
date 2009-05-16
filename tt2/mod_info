@@ -49,7 +49,7 @@ href="[% cpaninstall %]?module=[% results.mod_name %]">[% pages.install %]</a>]
 </tr><tr>
 <td class=label>[% pages.abstract %]</td>
 [% IF results.mod_abs %]
-<td class=cell>[% results.mod_abs %]</td>
+<td class=cell>[% results.mod_abs | html %]</td>
 [% END -%]
 </tr><tr>
 <td class=label><a href="[% home %]/chapter">[% pages.category %]</a></td>

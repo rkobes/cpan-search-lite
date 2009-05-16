@@ -17,7 +17,7 @@
 [% IF item.chapterid %]
 [ <a href="[% home %]/chapter/[% item.chapter %]"><small>[% pages.related %]</small></a> ]
 [% END %]
-<br /><small>[% item.mod_abs %]</small></td>
+<br /><small>[% item.mod_abs | html %]</small></td>
 [% END -%]
 [% IF item == column.last %]
 </tr>
