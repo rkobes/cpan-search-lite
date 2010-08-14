@@ -17,6 +17,7 @@ our $arch = '';
 my %arch = ('5.6' => 'MSWin32-x86-multi-thread',
 	    '5.8' => 'MSWin32-x86-multi-thread-5.8',
 	    '5.1' => 'MSWin32-x86-multi-thread-5.10',
+	    '5.12' => 'MSWin32-x86-multi-thread-5.12',
 	   );
 
 my %months = ('Jan' => '01',

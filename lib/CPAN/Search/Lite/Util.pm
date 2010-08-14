@@ -251,6 +251,46 @@ $repositories = {
                        build => '10xx',
                        PerlV         => 5.10,
                       },
+                 17 => {
+                       alias => 'AS512',
+                       LOCATION  => 
+                       'http://ppm4.activestate.com/MSWin32-x86/5.12/1200/',
+                       SUMMARYFILE  => 'fetch_summary',
+                       PerlV         => 5.12,
+                       browse => 'http://ppm4.activestate.com/MSWin32-x86/5.12/1200/',
+                       desc => 'ActiveState default Perl 5.12 repository',
+                       build => '12xx',
+                      },
+                 18 => {
+                       alias => 'bribes512',
+                       LOCATION  => 
+                       'http://www.bribes.org/perl/ppm/',
+                       SUMMARYFILE  => 'summary.cgi',
+                       browse => 'http://www.bribes.org/perl/ppm',
+                       desc => 'www.bribes.org Perl 5.12 repository',
+                       build => '12xx',
+                       PerlV         => 5.12,
+                      },
+                 19 => {
+                       alias => 'trouchelle512',
+                       LOCATION  => 
+                       'http://trouchelle.com/ppm12/',
+                       SUMMARYFILE  => 'summary.ppm',
+                       browse => 'http://trouchelle.com/perl/ppmrepview.pl',
+                       desc => 'trouchelle.com Perl 5.12 repository',
+                       build => '12xx',
+                       PerlV         => 5.12,
+                      },
+                 20 => {
+                       alias => 'uwinnipeg512',
+                       LOCATION  => 
+                       'http://cpan.uwinnipeg.ca/PPMPackages/12xx/',
+                       SUMMARYFILE  => 'fetch_summary',
+                       browse => 'http://cpan.uwinnipeg.ca/PPMPackages/12xx/',
+                       desc => 'uwinnipeg Perl 5.12 repository',
+                       build => '12xx',
+                       PerlV         => 5.12,
+                      },
                 };
 
 sub make_ids {
