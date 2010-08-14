@@ -13,6 +13,7 @@
    matrix = 'http://matrix.cpantesters.org/?'
    testers_author = 'http://www.cpantesters.org/author/'
    searchcpan = 'http://search.cpan.org/'
+   ppm4 = 'http://ppm4.activestate.com/author'
    cpants = 'http://cpants.perl.org'
    rt = 'http://rt.cpan.org/NoAuth/Bugs.html?Dist='
    cpan = 'http://www.cpan.org'

@@ -52,6 +52,8 @@ CPANTS</a>&nbsp; | &nbsp;
 <a href="[% testers_author %][% results.cpanid %].html">
 CPAN testers</a>&nbsp; | &nbsp;
 <a href="[% matrix %]author=[% results.cpanid %]">Testers matrix</a>
+&nbsp; | &nbsp;
+<a href="[% ppm4 %]/[% results.cpanid %].html">Activestate</a>
 </td>
 </tr>
 </table>

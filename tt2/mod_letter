@@ -26,7 +26,7 @@ href="[% home %]/[% mode %]/[% item.letter %]/"><b>[% item.letter %]::*</b></a>
 [% ELSIF item.mod_name %]
 <td width="33%"><a
 href="[% home %]/[% mode %]/[% item.mod_name %]"><b>[% item.mod_name %]</b></a>
-<br /><small>[% item.mod_abs %]</small></td>
+<br /><small>[% item.mod_abs | html %]</small></td>
 [% END -%]
 [% IF item == column.last %]
 </tr>
