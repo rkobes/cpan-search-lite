@@ -69,7 +69,7 @@ CPAN testers</a>&nbsp; | &nbsp;
 [% item.dist_name %]-[% item.dist_vers %]</a>
 &nbsp;&nbsp;[&nbsp;<a
 href="[% host %]/authors/id/[% item.download %]">[% pages.download %]</a>&nbsp;]</td>
-<td>[% item.dist_abs %]</td>
+<td>[% item.dist_abs | html %]</td>
 <td align=right>[% item.birth %]</td></tr>
 [% END -%]
 </table>

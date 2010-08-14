@@ -18,7 +18,7 @@ href="[% home %]/chapter/[% chapter %]/[% item.subchapter %]">[% item.subchapter
 [% IF item.count %]
 <br /><small>[ [% pages.more %] ... ]</small></td>
 [% ELSIF item.dist_abs %]
-<br /><small>[% item.dist_abs %]</small></td>
+<br /><small>[% item.dist_abs | html %]</small></td>
 [% END -%]
 [% IF item == column.last %]
 </tr>

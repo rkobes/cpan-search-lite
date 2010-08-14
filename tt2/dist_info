@@ -33,7 +33,7 @@ href="[% cpaninstall %]?dist=[% results.dist_file %];cpanid=[% results.cpanid %]
 <td class=cell>[% results.dist_vers %]</td>
 </tr><tr>
 <td class=label>[% pages.abstract %]</td>
-<td class=cell>[% results.dist_abs %]</td>
+<td class=cell>[% results.dist_abs | html %]</td>
 </tr><tr>
 <td class=label>[% pages.released %]</td>
 <td class=cell>[% results.birth %]</td>
@@ -97,7 +97,7 @@ href="[% cpaninstall %]?dist=[% results.dist_file %];cpanid=[% results.cpanid %]
 &nbsp; [v [% item.mod_vers %]]
 [% END -%]
 </td><td align="left">
-[% item.mod_abs %]
+[% item.mod_abs | html %]
 </td></tr>
 [% END -%]
 </table></div>

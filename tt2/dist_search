@@ -18,7 +18,7 @@
 [ <a href="[% home %]/chapter/[% ch %]"><small>[% pages.related %]</small></a> ]
 [% END %]
 [% END %]
-<br /><small>[% item.dist_abs %]</small></td>
+<br /><small>[% item.dist_abs | html %]</small></td>
 [% IF item == column.last %]
 </tr>
 [% END -%]

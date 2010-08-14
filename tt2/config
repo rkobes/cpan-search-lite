@@ -10,7 +10,7 @@
    rssimg = "$home/htdocs/rss-10.gif"
    testers = 'http://www.cpantesters.org/show/'
    cpandeps = 'http://cpandeps.cantrell.org.uk/?module='
-   matrix = 'http://bbbike.radzeit.de/~slaven/cpantestersmatrix.cgi?'
+   matrix = 'http://matrix.cpantesters.org/?'
    testers_author = 'http://www.cpantesters.org/author/'
    searchcpan = 'http://search.cpan.org/'
    cpants = 'http://cpants.perl.org'
