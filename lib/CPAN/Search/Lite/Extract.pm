@@ -284,7 +284,7 @@ sub extract {
 	  and not has_data($dists->{$dist}->{requires})) {
 	(my $test = $dist) =~ s/-/::/g;
 	if ($test eq $module) {
-	  my $prereqs = $self->parse_bundle($content); warn $prereqs;
+	  my $prereqs = $self->parse_bundle($content); 
 	  if ($prereqs  and (ref($prereqs) eq 'HASH') ) {
 	    $dists->{$dist}->{requires} = $prereqs;
 	  }
